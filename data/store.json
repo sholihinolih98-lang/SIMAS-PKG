@@ -1,0 +1,1773 @@
+{
+  "identity": {
+    "namaSekolah": "SDN 1 SUKAJAYA",
+    "npsn": "20602015",
+    "alamatSekolah": "Jl. Raya Sobang-Cigemblong Km 01 Kp. Cilebang Ds. Sukajaya Kec. Sobang",
+    "namaKepalaSekolah": "Sholihin, S.Pd., M.Pd",
+    "nipKepalaSekolah": "197505122008011010",
+    "tahunPelajaran": "2026/2027",
+    "tanggalPemeriksaan": "2026-11-16",
+    "namaPemeriksa": "Haeriyan, S.Pd",
+    "nipPemeriksa": "197404202008012003",
+    "tempatPenetapan": "Sobang",
+    "catatanPemeriksa": "Pelaksanaan administrasi sekolah secara umum berjalan tertib. Dokumen terkait Penilaian Kinerja Guru (PKG) dan supervisi kelas terintegrasi dengan arsip digital sekolah.",
+    "rekomendasiTindakLanjut": "Lengkapi arsip digital pada bagian Keuangan Komite, Tabungan Sekolah, dan Program Kerja Sekolah Jangka Panjang sebelum evaluasi semester berikutnya."
+  },
+  "checklist": [
+    {
+      "id": "item-1",
+      "no": 1,
+      "bagian": "A",
+      "kode": "PK.1",
+      "jenis": "Jadwal Pelajaran Sekolah",
+      "status": "ada",
+      "keterangan": "Terarsip: PK.1_Jadwal_Pelajaran_2026_2027.html",
+      "syncSource": "arsip_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-2",
+      "no": 2,
+      "bagian": "A",
+      "kode": "P.Pk.1",
+      "jenis": "Jadwal Kegiatan Ekstra Kurikuler",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-3",
+      "no": 3,
+      "bagian": "A",
+      "kode": "P.Pk.2",
+      "jenis": "Kalender Pendidikan",
+      "status": "ada",
+      "keterangan": "Terarsip: P.Pk.2_Kalender_Pendidikan_2026_2027.html",
+      "syncSource": "arsip_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-4",
+      "no": 4,
+      "bagian": "A",
+      "kode": "P.Pk.3",
+      "jenis": "Program Kegiatan Ekstra Kurikuler",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-5",
+      "no": 5,
+      "bagian": "A",
+      "kode": "P.Pk.4",
+      "jenis": "Buku Catatan Kegiatan Keluar",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-6",
+      "no": 6,
+      "bagian": "A",
+      "kode": "P.Pk.5",
+      "jenis": "Buku Agenda Kelas/Jurnal",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-7",
+      "no": 7,
+      "bagian": "A",
+      "kode": "PK.2",
+      "jenis": "Daftar Pembagian Tugas Mengajar",
+      "status": "ada",
+      "keterangan": "Tersinkron otomatis dari 6 data penugasan guru PKG",
+      "syncSource": "pkg_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-8",
+      "no": 8,
+      "bagian": "A",
+      "kode": "PK.3",
+      "jenis": "Daftar Pemeriksaan Persiapan Mengajar",
+      "status": "ada",
+      "keterangan": "4/6 guru perangkat ajar lengkap pada modul PKG",
+      "syncSource": "pkg_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-9",
+      "no": 9,
+      "bagian": "A",
+      "kode": "PK.4",
+      "jenis": "Daftar Penyelesaian Kasus di Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-10",
+      "no": 10,
+      "bagian": "A",
+      "kode": "PK.5",
+      "jenis": "Daftar Hasil Ujian Akhir Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-11",
+      "no": 11,
+      "bagian": "A",
+      "kode": "PK.6",
+      "jenis": "Rekap Kelas Kenaikan dan Kelulusan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-12",
+      "no": 12,
+      "bagian": "A",
+      "kode": "PK.7",
+      "jenis": "Daftar Penyerahan Ijazah dan STL",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-13",
+      "no": 13,
+      "bagian": "A",
+      "kode": "PK.8",
+      "jenis": "Rekap Pelaksanaan Supervisi Kelas",
+      "status": "ada",
+      "keterangan": "4 guru selesai supervisi kelas & PKG",
+      "syncSource": "pkg_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-14",
+      "no": 14,
+      "bagian": "A",
+      "kode": "P.Pk.8.a",
+      "jenis": "Rencana Program Supervisi",
+      "status": "ada",
+      "keterangan": "Tersinkron dari jadwal & program supervisi guru",
+      "syncSource": "pkg_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-15",
+      "no": 15,
+      "bagian": "A",
+      "kode": "P.Pk.8.b",
+      "jenis": "Catatan Tindak Lanjut Hasil Supervisi",
+      "status": "ada",
+      "keterangan": "Catatan tindak lanjut supervisi tersedia untuk 5 guru",
+      "syncSource": "pkg_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-16",
+      "no": 16,
+      "bagian": "A",
+      "kode": "P.Pk.8.c",
+      "jenis": "Pengawasan Pelaksanaan Kegiatan Ekstrakurikuler, Perpustakaan, Ulangan Umum dan Ujian",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-17",
+      "no": 17,
+      "bagian": "A",
+      "kode": "PK.9",
+      "jenis": "Hubungan Masyarakat",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-18",
+      "no": 18,
+      "bagian": "A",
+      "kode": "PK.10",
+      "jenis": "Laporan Hasil Belajar (Buku Rapor)",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-19",
+      "no": 19,
+      "bagian": "A",
+      "kode": "PK.11",
+      "jenis": "Program Tahunan Sekolah",
+      "status": "ada",
+      "keterangan": "Program Tahunan Sekolah telah disahkan kepala sekolah",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-20",
+      "no": 20,
+      "bagian": "A",
+      "kode": "PK.12",
+      "jenis": "Ijazah dan Surat Tanda Lulus (FCopy/arsip)",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-21",
+      "no": 21,
+      "bagian": "B",
+      "kode": "S-1",
+      "jenis": "Formulir Pendaftaran Siswa Baru",
+      "status": "ada",
+      "keterangan": "Formulir SPMB tersedia di ruang tata usaha",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-22",
+      "no": 22,
+      "bagian": "B",
+      "kode": "S-2",
+      "jenis": "Daftar Calon Siswa Baru",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-23",
+      "no": 23,
+      "bagian": "B",
+      "kode": "S-3",
+      "jenis": "Daftar Siswa Baru",
+      "status": "ada",
+      "keterangan": "Daftar siswa baru tahun 2026/2027 lengkap",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-24",
+      "no": 24,
+      "bagian": "B",
+      "kode": "S-4",
+      "jenis": "Buku Induk",
+      "status": "ada",
+      "keterangan": "Buku Induk Register siswa diperbarui",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-25",
+      "no": 25,
+      "bagian": "B",
+      "kode": "S-5",
+      "jenis": "Buku Klaper",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-26",
+      "no": 26,
+      "bagian": "B",
+      "kode": "PS-5a",
+      "jenis": "Buku Kunci Induk",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-27",
+      "no": 27,
+      "bagian": "B",
+      "kode": "PS-5b",
+      "jenis": "Buku Pembantu Induk",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-28",
+      "no": 28,
+      "bagian": "B",
+      "kode": "S-6",
+      "jenis": "Jumlah Siswa Menurut Kelas, Asal, dan Jenis Kelamin",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-29",
+      "no": 29,
+      "bagian": "B",
+      "kode": "S-7",
+      "jenis": "Jumlah Siswa Menurut Usia, Kelas, dan Jenis Kelamin",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-30",
+      "no": 30,
+      "bagian": "B",
+      "kode": "PS-7a",
+      "jenis": "Jumlah Siswa Menurut Kelas, Agama, dan Jenis Kelamin",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-31",
+      "no": 31,
+      "bagian": "B",
+      "kode": "S-8",
+      "jenis": "Papan Absen Harian Siswa",
+      "status": "ada",
+      "keterangan": "Papan absen harian terpasang di setiap kelas",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-32",
+      "no": 32,
+      "bagian": "B",
+      "kode": "S-9",
+      "jenis": "Buku Rekap Absen Harian Siswa",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-33",
+      "no": 33,
+      "bagian": "B",
+      "kode": "S-10",
+      "jenis": "Buku Absen Bulanan Siswa",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-34",
+      "no": 34,
+      "bagian": "B",
+      "kode": "S-11",
+      "jenis": "Buku Rekap Absen Bulanan Siswa",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-35",
+      "no": 35,
+      "bagian": "B",
+      "kode": "S-12",
+      "jenis": "Surat Permohonan Pindah Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-36",
+      "no": 36,
+      "bagian": "B",
+      "kode": "S-13",
+      "jenis": "Surat Keterangan Pindah Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-37",
+      "no": 37,
+      "bagian": "B",
+      "kode": "S-14",
+      "jenis": "Buku Mutasi Siswa Semesteran",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-38",
+      "no": 38,
+      "bagian": "B",
+      "kode": "PS-14a",
+      "jenis": "Buku Mutasi Siswa Kelas",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-39",
+      "no": 39,
+      "bagian": "B",
+      "kode": "S-15",
+      "jenis": "Daftar Calon Peserta UAS",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-40",
+      "no": 40,
+      "bagian": "B",
+      "kode": "S-16",
+      "jenis": "Tanda Peserta UAS",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-41",
+      "no": 41,
+      "bagian": "B",
+      "kode": "S-17",
+      "jenis": "Daftar Peserta UAS dan Prestasinya",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-42",
+      "no": 42,
+      "bagian": "B",
+      "kode": "S-18",
+      "jenis": "Daftar Siswa Masuk SLTP/MTS",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-43",
+      "no": 43,
+      "bagian": "B",
+      "kode": "S-19",
+      "jenis": "Daftar Kenaikan Kelas",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-44",
+      "no": 44,
+      "bagian": "B",
+      "kode": "S-20",
+      "jenis": "Rekap Kelas Kenaikan dan Kelulusan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-45",
+      "no": 45,
+      "bagian": "B",
+      "kode": "PS-21",
+      "jenis": "Daftar Prestasi Siswa (Bibit Unggul)",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-46",
+      "no": 46,
+      "bagian": "B",
+      "kode": "PS-22",
+      "jenis": "Daftar Siswa Berprestasi",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-47",
+      "no": 47,
+      "bagian": "B",
+      "kode": "PS-23",
+      "jenis": "Buku Catatan Pencapaian Sasaran Kurikulum dan Taraf Serap",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-48",
+      "no": 48,
+      "bagian": "B",
+      "kode": "PS-24",
+      "jenis": "Grafik Pencapaian Sasaran Kurikulum dan Taraf Serap",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-49",
+      "no": 49,
+      "bagian": "C",
+      "kode": "PEG.1",
+      "jenis": "Rencana Kebutuhan Guru/Karyawan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-50",
+      "no": 50,
+      "bagian": "C",
+      "kode": "PEG.3b",
+      "jenis": "Daftar Riwayat Hidup/Formulir Isian Pegawai",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-51",
+      "no": 51,
+      "bagian": "C",
+      "kode": "PEG.5",
+      "jenis": "DUPAK Kenaikan Jabatan/Pangkat Guru",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-52",
+      "no": 52,
+      "bagian": "C",
+      "kode": "P.PEG.5a",
+      "jenis": "Buku Catatan Kenaikan Pangkat",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-53",
+      "no": 53,
+      "bagian": "C",
+      "kode": "PEG.6",
+      "jenis": "Buku Catatan Penilaian/Kinerja PNS",
+      "status": "ada",
+      "keterangan": "Otomatis terhubung dengan Rekap Nilai PKG 2026",
+      "syncSource": "pkg_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-54",
+      "no": 54,
+      "bagian": "C",
+      "kode": "P.PEG.6a",
+      "jenis": "Buku Tertib Guru/Karyawan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-55",
+      "no": 55,
+      "bagian": "C",
+      "kode": "P.PEG.6b",
+      "jenis": "Buku Pembinaan Khusus",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-56",
+      "no": 56,
+      "bagian": "C",
+      "kode": "PEG.7",
+      "jenis": "Daftar Penilaian Pelaksanaan Pekerjaan",
+      "status": "ada",
+      "keterangan": "Otomatis terhubung dengan SKP / Penilaian Kinerja Guru",
+      "syncSource": "pkg_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-57",
+      "no": 57,
+      "bagian": "C",
+      "kode": "PEG.8",
+      "jenis": "Daftar Urut Kepangkatan (DUK) PNS",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-58",
+      "no": 58,
+      "bagian": "C",
+      "kode": "PEG.9",
+      "jenis": "Buku Cuti Guru/Karyawan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-59",
+      "no": 59,
+      "bagian": "C",
+      "kode": "PEG.10",
+      "jenis": "Buku Permintaan Berhenti dari PNS dengan Hak Pensiun",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-60",
+      "no": 60,
+      "bagian": "C",
+      "kode": "PEG.11a",
+      "jenis": "Pendaftaran Permintaan Pensiunan PNS",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-61",
+      "no": 61,
+      "bagian": "C",
+      "kode": "PEG.11b",
+      "jenis": "Daftar Susunan Keluarga",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-62",
+      "no": 62,
+      "bagian": "C",
+      "kode": "PEG.17a",
+      "jenis": "Daftar Hadir Guru/Karyawan",
+      "status": "ada",
+      "keterangan": "Daftar hadir harian guru & tendik terisi rutin",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-63",
+      "no": 63,
+      "bagian": "C",
+      "kode": "PEG.17b",
+      "jenis": "Buku Rangkuman Hadir Guru/Karyawan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-64",
+      "no": 64,
+      "bagian": "C",
+      "kode": "PEG.17c",
+      "jenis": "Buku Rangkuman Tidak Hadir Guru/Karyawan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-65",
+      "no": 65,
+      "bagian": "C",
+      "kode": "PEG.18",
+      "jenis": "Data Kepegawaian",
+      "status": "ada",
+      "keterangan": "Data kepegawaian 6 guru sinkron dengan daftar PKG",
+      "syncSource": "pkg_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-66",
+      "no": 66,
+      "bagian": "D",
+      "kode": "Formulir.1",
+      "jenis": "Rencana APBS",
+      "status": "ada",
+      "keterangan": "Terarsip: Formulir.1_Rencana_APBS_2026.html",
+      "syncSource": "arsip_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-67",
+      "no": 67,
+      "bagian": "D",
+      "kode": "BKU",
+      "jenis": "Buku Kas Umum",
+      "status": "ada",
+      "keterangan": "Terarsip: BKU_Buku_Kas_Umum_Triwulan_3_2026.html",
+      "syncSource": "arsip_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-68",
+      "no": 68,
+      "bagian": "D",
+      "kode": "BKP",
+      "jenis": "Buku Kas Pembantu",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-69",
+      "no": 69,
+      "bagian": "D",
+      "kode": "RPK",
+      "jenis": "Buku Rangkuman Penerimaan dan Pengeluaran Keuangan Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-70",
+      "no": 70,
+      "bagian": "D",
+      "kode": "P.Ku.1",
+      "jenis": "Buku Penerimaan dan Pembayaran Gaji",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-71",
+      "no": 71,
+      "bagian": "D",
+      "kode": "P.Ku.2",
+      "jenis": "Buku Kas Keuangan Komite Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-72",
+      "no": 72,
+      "bagian": "D",
+      "kode": "P.Ku.3",
+      "jenis": "Buku Iuran Komite Sekolah",
+      "status": "tidak_ada",
+      "keterangan": "Tidak memungut iuran komite (sekolah negeri bebas pungutan)",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "priorityHighlight": true
+    },
+    {
+      "id": "item-73",
+      "no": 73,
+      "bagian": "D",
+      "kode": "P.Ku.4",
+      "jenis": "Buku Tabungan Sekolah",
+      "status": "tidak_ada",
+      "keterangan": "Belum tersedia buku tabungan khusus sekolah",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "priorityHighlight": true
+    },
+    {
+      "id": "item-74",
+      "no": 74,
+      "bagian": "D",
+      "kode": "P.Ku.5",
+      "jenis": "Buku Keuangan Koperasi Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-75",
+      "no": 75,
+      "bagian": "D",
+      "kode": "P.Ku.6",
+      "jenis": "Buku Keuangan Serba-Serbi",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-76",
+      "no": 76,
+      "bagian": "D",
+      "kode": "P.Ku.7",
+      "jenis": "SPJ Dana Bantuan Operasional (Kinerja, Kemajuan, Airmasi)",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-77",
+      "no": 77,
+      "bagian": "D",
+      "kode": "P.Ku.8",
+      "jenis": "SPJ Kelebihan Mengajar",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-78",
+      "no": 78,
+      "bagian": "D",
+      "kode": "P.Ku.9",
+      "jenis": "SPJ Bea Siswa",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-79",
+      "no": 79,
+      "bagian": "D",
+      "kode": "P.Ku.10",
+      "jenis": "SPJ Bantuan Operasional Sekolah",
+      "status": "ada",
+      "keterangan": "Terarsip bersama laporan realisasi SPJ BOS",
+      "syncSource": "arsip_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-80",
+      "no": 80,
+      "bagian": "E",
+      "kode": "PERL.1",
+      "jenis": "Buku Pemeriksaan Perlengkapan/Barang",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-81",
+      "no": 81,
+      "bagian": "E",
+      "kode": "PERL.2",
+      "jenis": "Kartu Inventaris Ruangan",
+      "status": "ada",
+      "keterangan": "KIR terpasang di Ruang Kelas I-VI dan Ruang Guru",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-82",
+      "no": 82,
+      "bagian": "E",
+      "kode": "PERL.3A",
+      "jenis": "Kartu Inventaris Barang (Tanah)",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-83",
+      "no": 83,
+      "bagian": "E",
+      "kode": "PERL.3B",
+      "jenis": "Kartu Inventaris Barang (Gedung)",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-84",
+      "no": 84,
+      "bagian": "E",
+      "kode": "PERL.3C",
+      "jenis": "Kartu Inventaris Barang (Kendaraan)",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-85",
+      "no": 85,
+      "bagian": "E",
+      "kode": "PERL.3D",
+      "jenis": "Kartu Inventaris Barang (Barang Inv. Lain)",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-86",
+      "no": 86,
+      "bagian": "E",
+      "kode": "PERL.4",
+      "jenis": "Buku Inventaris Perlengkapan/Barang",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-87",
+      "no": 87,
+      "bagian": "E",
+      "kode": "P.Pust",
+      "jenis": "Buku Inventaris Perpustakaan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-88",
+      "no": 88,
+      "bagian": "F",
+      "kode": "P.Kap.1",
+      "jenis": "Buku Agenda Surat Masuk dan Keluar",
+      "status": "ada",
+      "keterangan": "Buku agenda surat masuk & keluar terisi aktif",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-89",
+      "no": 89,
+      "bagian": "F",
+      "kode": "P.Kap.2",
+      "jenis": "Buku Pengantar Ekspedisi",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-90",
+      "no": 90,
+      "bagian": "F",
+      "kode": "P.Kap.3",
+      "jenis": "Buku Tamu Khusus",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-91",
+      "no": 91,
+      "bagian": "F",
+      "kode": "P.Kap.4",
+      "jenis": "Buku Tamu Umum",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-92",
+      "no": 92,
+      "bagian": "F",
+      "kode": "P.Kap.5",
+      "jenis": "Buku Catatan Pengaduan, Kritik, Saran, Masyarakat",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-93",
+      "no": 93,
+      "bagian": "F",
+      "kode": "P.Kap.6",
+      "jenis": "Buku Notula Rapat Dinas",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-94",
+      "no": 94,
+      "bagian": "F",
+      "kode": "P.Kap.7",
+      "jenis": "Buku Notula Rapat Dewan Sekolah/Guru",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-95",
+      "no": 95,
+      "bagian": "F",
+      "kode": "P.Kap.8",
+      "jenis": "Buku Notula Rapat Komite Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-96",
+      "no": 96,
+      "bagian": "F",
+      "kode": "P.Kap.9",
+      "jenis": "Daftar Hadir Rapat Komite Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-97",
+      "no": 97,
+      "bagian": "F",
+      "kode": "P.Kap.10",
+      "jenis": "Daftar Hadir Pertemuan Wali Siswa",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-98",
+      "no": 98,
+      "bagian": "F",
+      "kode": "P.Kap.11",
+      "jenis": "Profil Sekolah",
+      "status": "ada",
+      "keterangan": "Terarsip: P.Kap.11_P.Kap.12_Profil_dan_Visi_Misi_Sekolah.html",
+      "syncSource": "arsip_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-99",
+      "no": 99,
+      "bagian": "F",
+      "kode": "P.Kap.12",
+      "jenis": "Visi dan Misi Sekolah",
+      "status": "ada",
+      "keterangan": "Terarsip: P.Kap.11_P.Kap.12_Profil_dan_Visi_Misi_Sekolah.html",
+      "syncSource": "arsip_otomatis",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-100",
+      "no": 100,
+      "bagian": "F",
+      "kode": "P.Kap.13",
+      "jenis": "Rencana Pengembangan Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-101",
+      "no": 101,
+      "bagian": "F",
+      "kode": "P.Kap.14",
+      "jenis": "Program Kerja Umum Kepala Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-102",
+      "no": 102,
+      "bagian": "F",
+      "kode": "P.Kap.15",
+      "jenis": "Program Kerja Sekolah Jangka Panjang",
+      "status": "tidak_ada",
+      "keterangan": "Program Kerja Jangka Panjang (RKJM 4-8 tahun) sedang disusun ulang",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "priorityHighlight": true
+    },
+    {
+      "id": "item-103",
+      "no": 103,
+      "bagian": "F",
+      "kode": "P.Kap.16",
+      "jenis": "Program Kerja Sekolah Jangka Menengah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-104",
+      "no": 104,
+      "bagian": "F",
+      "kode": "P.Kap.17",
+      "jenis": "Program Kerja Sekolah Jangka Pendek",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-105",
+      "no": 105,
+      "bagian": "F",
+      "kode": "P.Kap.18",
+      "jenis": "Program Peningkatan SDM",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z",
+      "linkedPkgRelated": true
+    },
+    {
+      "id": "item-106",
+      "no": 106,
+      "bagian": "F",
+      "kode": "P.Kap.19",
+      "jenis": "Catatan Kegiatan Harian Kepala Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-107",
+      "no": 107,
+      "bagian": "F",
+      "kode": "P.Kap.20",
+      "jenis": "Catatan Membimbing Lomba",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-108",
+      "no": 108,
+      "bagian": "F",
+      "kode": "P.Kap.21",
+      "jenis": "Catatan Gagasan Baru/Inovasi",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-109",
+      "no": 109,
+      "bagian": "F",
+      "kode": "P.Kap.22",
+      "jenis": "Tata Tertib Guru",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-110",
+      "no": 110,
+      "bagian": "F",
+      "kode": "P.Kap.23",
+      "jenis": "Tata Tertib Siswa",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-111",
+      "no": 111,
+      "bagian": "F",
+      "kode": "P.Kap.24",
+      "jenis": "Peraturan Pemberian Sanksi Siswa",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-112",
+      "no": 112,
+      "bagian": "F",
+      "kode": "P.Kap.25",
+      "jenis": "Peraturan Pemberian Hadiah/Penghargaan",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-113",
+      "no": 113,
+      "bagian": "F",
+      "kode": "P.Kap.26",
+      "jenis": "Daftar Susunan Dewan Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-114",
+      "no": 114,
+      "bagian": "F",
+      "kode": "P.Kap.27",
+      "jenis": "Daftar Susunan Komite Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-115",
+      "no": 115,
+      "bagian": "F",
+      "kode": "P.Kap.28",
+      "jenis": "Data Bank Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    },
+    {
+      "id": "item-116",
+      "no": 116,
+      "bagian": "F",
+      "kode": "P.Kap.29",
+      "jenis": "Denah Sekolah",
+      "status": "belum",
+      "keterangan": "",
+      "syncSource": "manual",
+      "lastUpdated": "2026-11-17T04:02:50.557Z"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "guru-1",
+      "nama": "Siti Aminah, S.Pd.SD",
+      "nip": "198204152009022004",
+      "nuptk": "7747760661300012",
+      "jabatan": "Guru Kelas VI",
+      "pangkatGolongan": "Pembina / IV.a",
+      "mapelKelas": "Kelas VI A",
+      "statusSertifikasi": "Sudah Sertifikasi",
+      "tanggalSupervisi": "2026-10-14",
+      "statusPkg": "selesai",
+      "skorKompetensi": {
+        "pedagogik": [
+          4,
+          4,
+          4,
+          4,
+          3,
+          4,
+          4
+        ],
+        "kepribadian": [
+          4,
+          4,
+          4
+        ],
+        "sosial": [
+          4,
+          4
+        ],
+        "profesional": [
+          4,
+          3
+        ]
+      },
+      "perangkatAjarLengkap": true,
+      "catatanSupervisi": "Pengelolaan kelas aktif, asesmen formatif terdokumentasi dengan baik pada Modul Ajar.",
+      "rencanaTindakLanjut": "Dilibatkan sebagai mentor penyusunan asesmen diagnostik bagi guru kelas rendah.",
+      "skorTotal": 54,
+      "nilaiKonversi": 96.43,
+      "sebutan": "Amat Baik",
+      "persentaseAngkaKredit": 125
+    },
+    {
+      "id": "guru-2",
+      "nama": "Ahmad Fauzi, S.Pd",
+      "nip": "198709212014031002",
+      "nuptk": "2253765666130043",
+      "jabatan": "Guru Kelas V",
+      "pangkatGolongan": "Penata / III.c",
+      "mapelKelas": "Kelas V",
+      "statusSertifikasi": "Sudah Sertifikasi",
+      "tanggalSupervisi": "2026-10-18",
+      "statusPkg": "selesai",
+      "skorKompetensi": {
+        "pedagogik": [
+          4,
+          3,
+          4,
+          3,
+          3,
+          4,
+          3
+        ],
+        "kepribadian": [
+          4,
+          4,
+          3
+        ],
+        "sosial": [
+          3,
+          4
+        ],
+        "profesional": [
+          3,
+          3
+        ]
+      },
+      "perangkatAjarLengkap": true,
+      "catatanSupervisi": "Media pembelajaran kontekstual sudah diterapkan, perlu penguatan diferensiasi tugas.",
+      "rencanaTindakLanjut": "Pendampingan KKG mini tentang pembelajaran berdiferensiasi pada bulan November.",
+      "skorTotal": 48,
+      "nilaiKonversi": 85.71,
+      "sebutan": "Baik",
+      "persentaseAngkaKredit": 100
+    },
+    {
+      "id": "guru-3",
+      "nama": "Rina Marlina, S.Pd",
+      "nip": "199103112019032009",
+      "nuptk": "4643769670230072",
+      "jabatan": "Guru Kelas IV",
+      "pangkatGolongan": "Penata Muda Tk. I / III.b",
+      "mapelKelas": "Kelas IV",
+      "statusSertifikasi": "Sudah Sertifikasi",
+      "tanggalSupervisi": "2026-10-24",
+      "statusPkg": "selesai",
+      "skorKompetensi": {
+        "pedagogik": [
+          3,
+          3,
+          4,
+          4,
+          3,
+          3,
+          4
+        ],
+        "kepribadian": [
+          4,
+          4,
+          4
+        ],
+        "sosial": [
+          4,
+          3
+        ],
+        "profesional": [
+          3,
+          4
+        ]
+      },
+      "perangkatAjarLengkap": true,
+      "catatanSupervisi": "Perangkat ajar lengkap dan sistematis; interaksi tanya jawab siswa sangat hidup.",
+      "rencanaTindakLanjut": "Dokumentasikan praktik baik literasi kelas untuk diunggah ke arsip inovasi sekolah.",
+      "skorTotal": 50,
+      "nilaiKonversi": 89.29,
+      "sebutan": "Baik",
+      "persentaseAngkaKredit": 100
+    },
+    {
+      "id": "guru-4",
+      "nama": "Dedi Kurniawan, S.Pd.I",
+      "nip": "198511072015021001",
+      "nuptk": "8439763665130083",
+      "jabatan": "Guru PAI & Budi Pekerti",
+      "pangkatGolongan": "Penata / III.c",
+      "mapelKelas": "Kelas I - VI (PAI)",
+      "statusSertifikasi": "Sudah Sertifikasi",
+      "tanggalSupervisi": "2026-11-04",
+      "statusPkg": "selesai",
+      "skorKompetensi": {
+        "pedagogik": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          3
+        ],
+        "kepribadian": [
+          4,
+          4,
+          4
+        ],
+        "sosial": [
+          4,
+          4
+        ],
+        "profesional": [
+          3,
+          3
+        ]
+      },
+      "perangkatAjarLengkap": true,
+      "catatanSupervisi": "Pembiasaan karakter berjalan konsisten, perlu memperbanyak rubrik penilaian praktik ibadah.",
+      "rencanaTindakLanjut": "Melengkapi bank instrumen penilaian praktik dan portofolio siswa.",
+      "skorTotal": 48,
+      "nilaiKonversi": 85.71,
+      "sebutan": "Baik",
+      "persentaseAngkaKredit": 100
+    },
+    {
+      "id": "guru-5",
+      "nama": "Nurlaela Sari, S.Pd",
+      "nip": "199506182022212011",
+      "nuptk": "1950773674230022",
+      "jabatan": "Guru Kelas II (PPPK)",
+      "pangkatGolongan": "Ahli Pertama / IX",
+      "mapelKelas": "Kelas II",
+      "statusSertifikasi": "Belum Sertifikasi",
+      "tanggalSupervisi": "2026-11-10",
+      "statusPkg": "proses",
+      "skorKompetensi": {
+        "pedagogik": [
+          3,
+          3,
+          3,
+          3,
+          2,
+          3,
+          3
+        ],
+        "kepribadian": [
+          4,
+          3,
+          3
+        ],
+        "sosial": [
+          3,
+          3
+        ],
+        "profesional": [
+          3,
+          3
+        ]
+      },
+      "perangkatAjarLengkap": false,
+      "catatanSupervisi": "Observasi tahap I selesai; ATP semester genap masih dalam penyempurnaan.",
+      "rencanaTindakLanjut": "Jadwalkan supervisi klinis lanjutan setelah revisi modul ajar numerasi.",
+      "skorTotal": 42,
+      "nilaiKonversi": 75,
+      "sebutan": "Cukup",
+      "persentaseAngkaKredit": 75
+    },
+    {
+      "id": "guru-6",
+      "nama": "Yusuf Hidayat, S.Pd",
+      "nip": "199302272023211008",
+      "nuptk": "5559771672130052",
+      "jabatan": "Guru PJOK (PPPK)",
+      "pangkatGolongan": "Ahli Pertama / IX",
+      "mapelKelas": "Kelas I - VI (PJOK)",
+      "statusSertifikasi": "Belum Sertifikasi",
+      "tanggalSupervisi": "",
+      "statusPkg": "belum",
+      "skorKompetensi": {
+        "pedagogik": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "kepribadian": [
+          3,
+          3,
+          3
+        ],
+        "sosial": [
+          3,
+          3
+        ],
+        "profesional": [
+          3,
+          3
+        ]
+      },
+      "perangkatAjarLengkap": false,
+      "catatanSupervisi": "Menunggu jadwal observasi praktik lapangan pada minggu ke-3 November 2026.",
+      "rencanaTindakLanjut": "Unggah jadwal supervisi dan perangkat ajar PJOK sebelum pelaksanaan observasi.",
+      "skorTotal": 42,
+      "nilaiKonversi": 75,
+      "sebutan": "Cukup",
+      "persentaseAngkaKredit": 75
+    }
+  ],
+  "archive": [
+    {
+      "id": "doc-official-pdf",
+      "judul": "Template Resmi Instrumen Administrasi Kepala Sekolah (PDF)",
+      "namaFileAsli": "CEKLIS_ADMINISTRASI_KEPALA_SEKOLAH_76cd8597.pdf",
+      "mimeType": "application/pdf",
+      "ukuranByte": 428500,
+      "tanggalUnggah": "2026-11-17T04:02:50.557Z",
+      "tahunPelajaran": "2026/2027",
+      "pengunggah": "Haeriyan, S.Pd",
+      "sumber": "lampiran_resmi",
+      "linkedItemIds": [],
+      "matchedCodes": [],
+      "autoMatchedConfidence": 100,
+      "catatan": "Dokumen sumber instrumen pemeriksaan 116 butir SDN 1 Sukajaya.",
+      "fileUrl": "/assets/aistudio/CEKLIS_ADMINISTRASI_KEPALA_SEKOLAH_76cd8597.pdf"
+    },
+    {
+      "id": "doc-seed-pk1",
+      "judul": "Jadwal Pelajaran Sekolah Tahun Pelajaran 2026/2027",
+      "namaFileAsli": "PK.1_Jadwal_Pelajaran_2026_2027.html",
+      "mimeType": "text/html",
+      "ukuranByte": 2157,
+      "tanggalUnggah": "2026-11-17T04:02:50.557Z",
+      "tahunPelajaran": "2026/2027",
+      "pengunggah": "Sholihin, S.Pd., M.Pd",
+      "sumber": "unggah_pengguna",
+      "linkedItemIds": [
+        "item-1"
+      ],
+      "matchedCodes": [
+        "PK.1"
+      ],
+      "autoMatchedConfidence": 98,
+      "catatan": "Terverifikasi lengkap untuk Kelas I s.d. VI.",
+      "fileUrl": "/api/archive/file/doc-seed-pk1"
+    },
+    {
+      "id": "doc-seed-ppk2",
+      "judul": "Kalender Pendidikan SDN 1 Sukajaya 2026/2027",
+      "namaFileAsli": "P.Pk.2_Kalender_Pendidikan_2026_2027.html",
+      "mimeType": "text/html",
+      "ukuranByte": 1588,
+      "tanggalUnggah": "2026-11-17T04:02:50.557Z",
+      "tahunPelajaran": "2026/2027",
+      "pengunggah": "Sholihin, S.Pd., M.Pd",
+      "sumber": "unggah_pengguna",
+      "linkedItemIds": [
+        "item-3"
+      ],
+      "matchedCodes": [
+        "P.Pk.2"
+      ],
+      "autoMatchedConfidence": 98,
+      "catatan": "Sesuai ketetapan Dinas Pendidikan Kabupaten dan agenda sekolah.",
+      "fileUrl": "/api/archive/file/doc-seed-ppk2"
+    },
+    {
+      "id": "doc-seed-pk2",
+      "judul": "SK Pembagian Tugas Mengajar Guru & Tugas Tambahan",
+      "namaFileAsli": "PK.2_SK_Pembagian_Tugas_Mengajar_2026.html",
+      "mimeType": "text/html",
+      "ukuranByte": 2321,
+      "tanggalUnggah": "2026-11-17T04:02:50.557Z",
+      "tahunPelajaran": "2026/2027",
+      "pengunggah": "Sholihin, S.Pd., M.Pd",
+      "sumber": "generator_pkg",
+      "linkedItemIds": [
+        "item-7"
+      ],
+      "matchedCodes": [
+        "PK.2"
+      ],
+      "autoMatchedConfidence": 98,
+      "catatan": "Disinkronkan otomatis dari daftar penugasan guru pada modul PKG.",
+      "fileUrl": "/api/archive/file/doc-seed-pk2"
+    },
+    {
+      "id": "doc-seed-pkg-rekap",
+      "judul": "Rekap Pelaksanaan Supervisi Kelas & PKG Tahun 2026",
+      "namaFileAsli": "PK.8_PEG.6_Rekap_Supervisi_dan_PKG_2026.html",
+      "mimeType": "text/html",
+      "ukuranByte": 2829,
+      "tanggalUnggah": "2026-11-17T04:02:50.557Z",
+      "tahunPelajaran": "2026/2027",
+      "pengunggah": "Sholihin, S.Pd., M.Pd",
+      "sumber": "generator_pkg",
+      "linkedItemIds": [
+        "item-13",
+        "item-14",
+        "item-15",
+        "item-53",
+        "item-56"
+      ],
+      "matchedCodes": [
+        "PK.8",
+        "P.Pk.8.a",
+        "P.Pk.8.b",
+        "PEG.6",
+        "PEG.7"
+      ],
+      "autoMatchedConfidence": 98,
+      "catatan": "Diterbitkan otomatis dari hasil Penilaian Kinerja Guru (4 guru selesai dinilai).",
+      "fileUrl": "/api/archive/file/doc-seed-pkg-rekap"
+    },
+    {
+      "id": "doc-seed-apbs",
+      "judul": "Rencana Anggaran Pendapatan dan Belanja Sekolah (APBS / RKAS)",
+      "namaFileAsli": "Formulir.1_Rencana_APBS_2026.html",
+      "mimeType": "text/html",
+      "ukuranByte": 1597,
+      "tanggalUnggah": "2026-11-17T04:02:50.557Z",
+      "tahunPelajaran": "2026/2027",
+      "pengunggah": "Sholihin, S.Pd., M.Pd",
+      "sumber": "unggah_pengguna",
+      "linkedItemIds": [
+        "item-66"
+      ],
+      "matchedCodes": [
+        "Formulir.1"
+      ],
+      "autoMatchedConfidence": 98,
+      "catatan": "Dokumen RKAS tahun anggaran berjalan telah disahkan.",
+      "fileUrl": "/api/archive/file/doc-seed-apbs"
+    },
+    {
+      "id": "doc-seed-bku",
+      "judul": "Buku Kas Umum (BKU) Realisasi Dana BOS 2026",
+      "namaFileAsli": "BKU_Buku_Kas_Umum_Triwulan_3_2026.html",
+      "mimeType": "text/html",
+      "ukuranByte": 1510,
+      "tanggalUnggah": "2026-11-17T04:02:50.557Z",
+      "tahunPelajaran": "2026/2027",
+      "pengunggah": "Sholihin, S.Pd., M.Pd",
+      "sumber": "unggah_pengguna",
+      "linkedItemIds": [
+        "item-67",
+        "item-79"
+      ],
+      "matchedCodes": [
+        "BKU",
+        "P.Ku.10"
+      ],
+      "autoMatchedConfidence": 98,
+      "catatan": "Tutup buku kas per akhir bulan berjalan dan SPJ BOS terlampir.",
+      "fileUrl": "/api/archive/file/doc-seed-bku"
+    },
+    {
+      "id": "doc-seed-kap11",
+      "judul": "Dokumen Profil Sekolah serta Visi & Misi SDN 1 Sukajaya",
+      "namaFileAsli": "P.Kap.11_P.Kap.12_Profil_dan_Visi_Misi_Sekolah.html",
+      "mimeType": "text/html",
+      "ukuranByte": 1565,
+      "tanggalUnggah": "2026-11-17T04:02:50.557Z",
+      "tahunPelajaran": "2026/2027",
+      "pengunggah": "Sholihin, S.Pd., M.Pd",
+      "sumber": "unggah_pengguna",
+      "linkedItemIds": [
+        "item-98",
+        "item-99"
+      ],
+      "matchedCodes": [
+        "P.Kap.11",
+        "P.Kap.12"
+      ],
+      "autoMatchedConfidence": 98,
+      "catatan": "Profil sekolah dan rumusan visi-misi tahun pelajaran 2026/2027.",
+      "fileUrl": "/api/archive/file/doc-seed-kap11"
+    }
+  ],
+  "syncLogs": [
+    {
+      "id": "log-init-1",
+      "timestamp": "2026-11-17T04:02:50.557Z",
+      "kategori": "pkg",
+      "judul": "Sinkronisasi Otomatis PKG ke Administrasi Sekolah",
+      "detail": "4 dari 6 guru berstatus Selesai PKG. Butir PK.2, PK.3, PK.8, P.Pk.8.a, P.Pk.8.b, PEG.6, PEG.7, dan PEG.18 otomatis ditandai ADA.",
+      "affectedCodes": [
+        "PK.2",
+        "PK.3",
+        "PK.8",
+        "P.Pk.8.a",
+        "P.Pk.8.b",
+        "PEG.6",
+        "PEG.7",
+        "PEG.18"
+      ]
+    },
+    {
+      "id": "log-init-2",
+      "timestamp": "2026-11-17T04:02:50.557Z",
+      "kategori": "arsip",
+      "judul": "Pemetaan Otomatis Arsip Dokumen Digital",
+      "detail": "6 dokumen sekolah berhasil dipetakan ke kode instrumen terkait (PK.1, P.Pk.2, Formulir.1, BKU, P.Ku.10, P.Kap.11, P.Kap.12).",
+      "affectedCodes": [
+        "PK.1",
+        "P.Pk.2",
+        "Formulir.1",
+        "BKU",
+        "P.Ku.10",
+        "P.Kap.11",
+        "P.Kap.12"
+      ]
+    }
+  ]
+}
